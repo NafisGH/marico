@@ -1,0 +1,41 @@
+.header {
+    max-width: 1640px;
+    display: flex;
+    border: 1px solid red;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__navigation-ul {
+    display: flex;
+    align-items:center;
+    height: 100%;
+  }
+  
+  .header__navigation-li:not(:last-child) {
+    margin-right: 39px;
+  }
+  
+  .logo {
+    display: flex;
+    align-items:center;
+  }
+  
+  .header__logo__icon {
+    margin-right: 17px;
+  }
+  
+  .header__button {
+    padding: 12px 22px;
+    color: inherit;
+  }
+  
+  .header__button_type_signup {
+    background-color: #326CF9;
+    border-radius: 5px;
+  }
+
+  .header__button_type_login {
+    background: none;
+  }

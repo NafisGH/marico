@@ -1,0 +1,110 @@
+.step {
+    margin-top: 162px;
+}
+
+.step_1__number_1 {
+    font-size: 25px;
+    color: #3D82F2;
+}
+
+.step_1__header {
+    font-size: 75px;
+}
+
+.step_1__header_text {
+    font-size: 30px;
+    color: #707070;
+    width: 929px;
+    height: 90px;
+    margin: auto;
+}
+
+.step_1__button_1 {
+    font-size: 20px;
+    color: #707070;
+    width: 313px;
+    height: 77px;
+    border-radius: 10px;
+    background-color: black;
+    border: 1px solid gray;
+}
+
+
+.your_homepage {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 100px 0px 0px 100px;
+
+}
+
+.your_homepage__content__your {
+    display: flex;
+}
+
+.your_homepage__content__your-homepage {
+    font-size: 30px;
+}
+
+.your_homepage__content__all-in_one-spot,
+.your_homepage__content__your-content {
+    display: flex;
+    font-size: 75px;
+}
+.your_homepage__content__your-content {
+    margin-top: 80px;
+}
+.your_homepage__content__one-spot {
+    margin-left: 16px;
+    color: #3C82F4;
+}
+
+
+.your_homepage__content__option_1,
+.your_homepage__content__option_2 {
+    display: flex;
+}
+.your_homepage__content__option_1 {
+    margin-top: 27px;
+}
+.your_homepage__content__option_2 {
+    margin-top: 10px;
+}
+
+.option_1__text,
+.option_2__text {
+    font-size: 23px;
+    margin-left: 12px;
+}
+
+.your_homepage__content_buttons {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 66px;
+}
+
+.your_homepage__content_buttons__start-btn {
+    width: 207px;
+    height: 65px;
+    font-size: 20px;
+    background-color: #326CF9;
+    ;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: white
+}
+
+.your_homepage__content_demo-btn {
+    width: 207px;
+    height: 65px;
+    font-size: 20px;
+    background-color: black;
+    border: 1px solid gray;
+    border-radius: 10px;
+    color: gray;
+    margin-left: 24px;
+}
+
+.your_homepage__screen_charli-puth {
+    width: 750px;
+    height: 600px;
+}
